@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bryan, also known as Jacob or senorbryan
-- 👀 I’m interested in creative, innovative projects whose purpose is to achieve some sort of efficiency
-- 🌱 I’m currently learning Java
+- 👀 My GitHub features projects all made from scratch using various programming languages
 
 <!---
 senorbryan/senorbryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
